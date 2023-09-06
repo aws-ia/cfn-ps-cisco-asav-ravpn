@@ -1,5 +1,5 @@
 project:
-  name: quickstart-cisco-asav-ravpn
+  name: cfn-ps-cisco-asav-ravpn
   regions:
    - us-east-1
   package_lambda: false
