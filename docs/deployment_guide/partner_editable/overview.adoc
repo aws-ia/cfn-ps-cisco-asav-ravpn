@@ -1,10 +1,11 @@
 This guide covers the information you need to deploy the {partner-product-name} Partner Solution in the AWS Cloud.
 
-// Fill in the info in <angle brackets> for use on the landing page only: 
-This Amazon Web Services (AWS) Partner Solution deploys [<product name>](<partner's marketing product page>) in the AWS Cloud so that <purpose>. This solution is for <target users> who want to <do what> so that <why>. For more information, refer to the [<product name> documentation](<URL>).
+This Partner Solution reference deployment guide provides step-by-step instructions for deploying a scalable Cisco Remote Access Virtual Private Network (RA-VPN) on the AWS Cloud. This Partner Solution is for users who want to deploy or learn about Cisco AnyConnect RA-VPN services on Cisco Adaptive Security Virtual Appliance (ASAv) firewalls using the AWS Cloud architecture.
 
-// Deploying this solution does not guarantee an organization’s compliance with any laws, certifications, policies, or other regulations. [Uncomment this statement only for solutions that relate to compliance. We'll add the corresponding reference part to the landing page and get legal approval before publishing.]
+=== Cisco scalable RA-VPN on AWS
 
-// For advanced information about the product, troubleshooting, or additional functionality, refer to the https://{partner-solution-github-org}.github.io/{partner-solution-project-name}/operational/index.html[Operational Guide^].
+As companies address the ever-increasing demand for secure remote connectivity, the need for a stable and scalable RA-VPN has increased. For many organizations, investing in additional hardware appliances to scale up a network’s infrastructure may not meet timeline objectives and available budgets. But, cloud-based architectures provide computing environments that are highly scalable and flexible in terms of both costs and resources.
 
-// For information about using this Partner Solution for migrations, refer to the https://{partner-solution-github-org}.github.io/{partner-solution-project-name}/migration/index.html[Migration Guide^].
+*Note:* This deployment can be integrated with both multi-factor authentication (MFA) and authentication, authorization, and accounting (AAA), such as Cisco Duo. For more information, see https://aws.amazon.com/quickstart/architecture/duo-mfa/[Duo MFA on AWS].
+
+Please know that we may share who uses AWS Quick Starts with the AWS Partner that collaborated with AWS on the content of the Quick Start.
