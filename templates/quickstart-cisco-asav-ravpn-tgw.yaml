@@ -152,7 +152,7 @@ Parameters:
 Conditions:
   UsingDefaultBucket: !Equals 
     - !Ref QSS3BucketName
-    - aws-quickstart
+    - aws-ia-us-east-1
   1AZCondition: !Equals
     - !Ref 'NumberOfAZs'
     - '1'
