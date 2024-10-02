@@ -1,4 +1,9 @@
 # quickstart-cisco-asav-ravpn
+## Deprecation Notice
+
+:x: This repository is subject to deprecation in Q4 2024. For more details, [please review this announcement](https://github.com/aws-ia/.announcements/issues/1). 
+
+
 ## Cisco Systems on the AWS Cloud
 
 This Quick Start reference deployment guide provides step-by-step instructions for deploying a scalable Cisco Remote Access Virtual Private Network (RA-VPN) on the AWS Cloud. This Quick Start is for users who want to deploy or learn about Cisco AnyConnect RA-VPN services on Cisco Adaptive Security Virtual Appliance (ASAv) firewalls using the AWS Cloud architecture.
